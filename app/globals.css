@@ -128,3 +128,8 @@
     @apply font-sans;
   }
 }
+
+.max-width {
+  max-width: 78rem;
+  width: 100%;
+}
